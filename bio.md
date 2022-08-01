@@ -16,14 +16,14 @@ I am a PhD candidate in Statistics at the University of Warwick (Coventry, UK).
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2022/2023 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * EC226: Econometrics 1 (term 1) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021/2022 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * EC123: Mathematical Techniques B (term 1)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * EC124: Statistical Techniques B (term 2)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * EC123: Mathematical Techniques B (term 1) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * EC124: Statistical Techniques B (term 2) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * ST340 Programming for Data Science (term 2) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020/2021 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * ST104: Statistical Laboratory (term 1) <br>
 
 2021 - 2022 -- **PhD tutor @ The Brilliant Club** <br>
-* Tutoring students in KS4 Maths curriculum
+* Tutoring students in KS4 Maths curriculum <br>
 
 2019 -- **Treasury Intern @ Equinix (London, UK)** <br>
 
