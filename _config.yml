@@ -13,8 +13,9 @@ header:
   pages:
     - name: Home
       slug: /
+    - name: Bio  
     - name: Work
-    - name: Blog
+    - name: Tutoring
 
 footer:
   show_powered_by: true
