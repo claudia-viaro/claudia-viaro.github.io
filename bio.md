@@ -1,7 +1,10 @@
 ---
-layout: bio
+layout: home
 title: Bio
 permalink: /bio/
+bio_picture:
+  src: /assets/img/bio-pic.jpg
+  alt: website picture
 ---
 
 ### Education ###
