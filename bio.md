@@ -12,7 +12,7 @@ bio_picture:
 
 <h3>Teaching Assistant Experience</h3>
 <p>
-  <b> 2021 - current: Teaching Assistant @ University of Warwick (Coventry, UK)</b>
+  <u> 2021 - current: Teaching Assistant @ University of Warwick (Coventry, UK)</u>
   <ul style="margin-top:-15px;">
     <li> 2022/2023 </li> <br />
          <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/">EC226: Econometrics 1</a> <br /> 
@@ -22,26 +22,32 @@ bio_picture:
          <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st340/">ST340 Programming for Data Science B</a>, term 2 with R (received a very kind teaching nomination) <br />
     <li> 2021/2022 </li> <br />
          <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st1/st104/">ST104: Statistical Laboratory</a>, term 1 <br />
-  </ul>
+  </ul><br />
+
+<u>2021 - 2022 -- PhD tutor @ The Brilliant Club</u> <br>
+* Tutoring students in KS4 Maths curriculum <br>
 </p>
 
 
-2021 - 2022 -- **PhD tutor @ The Brilliant Club** <br>
-* Tutoring students in KS4 Maths curriculum <br>
-
 <h3>Other Activities</h3>
+<p>
+  
+</p>
+
 
 <h3>Technical</h3>
-
-**Languages**
-* Advanced: Python, R
-* Beginner: Julia <br>
-**Software:** Git, Visual Studio, Windows, Linux
+<p>
+  <u>Languages</u>
+  * Advanced: Python, R
+  * Beginner: Julia <br>
+  <u>Software:</u>
+  * Git, Visual Studio, Windows, Linux
+</p>
 
 <h3>Languages</h3>
-
-* Italian: native 
-* English: proficient
-* Spanish: DELE C1 level (2018)
-
+<p>
+  * Italian: native 
+  * English: proficient
+  * Spanish: DELE C1 level (2018)
+</p>
 
