@@ -26,7 +26,8 @@ bio_picture:
 
 <u>2021 - 2022 -- PhD tutor @ The Brilliant Club</u>
 <ul style="margin-top:-15px;">
-  <li> Tutoring students in KS4 Maths curriculum </li> <br>
+  <li> Tutoring students in KS4 Maths curriculum </li> 
+</ul><br />  
 </p>
 
 
@@ -45,8 +46,8 @@ bio_picture:
   </ul>    
   <u>Software:</u>
   <ul style="margin-top:-15px;">
-    <li> Git, Visual Studio, Windows, Linux </li> <br>
-  </ul>
+    <li> Git, Visual Studio, Windows, Linux </li> 
+  </ul><br /> 
 </p>
 
 <h3>Languages</h3>
@@ -54,7 +55,7 @@ bio_picture:
   <ul style="margin-top:-15px;">
     <li> Italian: native </li> 
     <li> English: proficient </li> 
-    <li> Spanish: DELE C1 level (2018) </li> <br>
-  </ul> 
+    <li> Spanish: DELE C1 level (2018) </li>
+  </ul> <br /> 
 </p>
 
