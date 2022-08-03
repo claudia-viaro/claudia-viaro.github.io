@@ -12,7 +12,7 @@ bio_picture:
 
 <h3>Teaching Assistant Experience</h3>
 <p>
-  <u> 2021 - current: Teaching Assistant @ University of Warwick (Coventry, UK)</u>
+  <u> 2021 - current -- Teaching Assistant @ UoWarwick</u>
   <ul style="margin-top:-15px;">
     <li> 2022/2023 </li> 
          <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/">EC226: Econometrics 1, term 1</a> 
