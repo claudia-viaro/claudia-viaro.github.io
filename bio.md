@@ -40,19 +40,17 @@ bio_picture:
   <ul style="margin-top:-15px;">
     <li> Advanced: Python, R </li> 
     <li> Beginner: Julia
-  </ul> <br>    
+  </ul> <br>   
+</p>
+<p>
   <u>Software:</u>
   <ul style="margin-top:-15px;">
     <li> Git, Visual Studio, Windows, Linux </li> 
-  </ul><br /> 
+  </ul>
 </p>
 
 <h3>Languages</h3>
 <p>
-  <ul style="margin-top:-15px;">
-    <li> Italian: native </li> 
-    <li> English: proficient </li> 
-    <li> Spanish: DELE C1 level (2018) </li>
-  </ul> <br /> 
+  Italian: native; English: proficient; Spanish: DELE C1 level (2018)
 </p>
 
