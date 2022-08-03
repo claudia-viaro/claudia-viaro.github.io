@@ -1,9 +1,8 @@
 ---
 layout: bio
-title: Bio
 permalink: /bio/
 bio_picture:
-  src: /assets/img/bio-pic.jpg
+  src: /assets/img/bio-picture.jpg
   alt: website picture
 ---
 <h3>Education 3</h3>
@@ -11,7 +10,7 @@ bio_picture:
   I am a PhD candidate in Statistics at the University of Warwick (Coventry, UK).
 </p>
 
-<h3>Experience 3</h3>
+<h3>Teaching Assistant Experience 3</h3>
 <p>
   <b> 2021 - current Teaching Assistant @ University of Warwick (Coventry, UK)</b>
   <ul style="margin-top:-10px;">
@@ -30,7 +29,7 @@ bio_picture:
 2021 - 2022 -- **PhD tutor @ The Brilliant Club** <br>
 * Tutoring students in KS4 Maths curriculum <br>
 
-2019 -- **Treasury Intern @ Equinix (London, UK)** <br>
+
 
 
 ## Technical ##
