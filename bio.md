@@ -32,20 +32,26 @@ bio_picture:
 
 
 <h3>Other Activities</h3>
+<p>
+  <ul style="margin-top:-15px;">
+    <li> I am going to organize YRMLink opens in a new window along with Miha this year, drop me an email if you wish to present </li>
+    <li> member of the SIAM-IMA Student ChapterLink opens in a new window committee (SPAAM Seminar SeriesLink opens in a new window and more) </li> 
+  </ul><br />
+</p>
 
 
 <h3>Technical</h3>
 <p>
-  <u>Languages</u>
+  <u> Languages:</u>
   <ul style="margin-top:-15px;">
     <li> Advanced: Python, R </li> 
-    <li> Beginner: Julia
-  </ul> <br>   
+    <li> Beginner: Julia </li>
+  </ul><br />
 
 <u>Software:</u>
-<ul style="margin-top:-15px;">
-  <li> Git, Visual Studio, Windows, Linux </li> 
-</ul>
+<ul>
+  <li> Git, Visual Studio, Windows, Linux  </li> 
+</ul><br />  
 </p>
 
 <h3>Languages</h3>
