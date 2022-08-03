@@ -25,16 +25,13 @@ bio_picture:
   </ul><br />
 
 <u>2021 - 2022 -- PhD tutor @ The Brilliant Club</u>
-<ul style="margin-top:-15px;">
+<ul>
   <li> Tutoring students in KS4 Maths curriculum </li> 
 </ul><br />  
 </p>
 
 
 <h3>Other Activities</h3>
-<p>
-  
-</p>
 
 
 <h3>Technical</h3>
@@ -42,8 +39,8 @@ bio_picture:
   <u>Languages</u>
   <ul style="margin-top:-15px;">
     <li> Advanced: Python, R </li> 
-    <li> Beginner: Julia <br>
-  </ul>    
+    <li> Beginner: Julia
+  </ul> <br>    
   <u>Software:</u>
   <ul style="margin-top:-15px;">
     <li> Git, Visual Studio, Windows, Linux </li> 
