@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: bio
 permalink: /bio/
 bio_picture:
   src: /assets/img/bio-picture.jpg
