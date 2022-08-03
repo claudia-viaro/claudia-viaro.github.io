@@ -24,7 +24,7 @@ site under construction, slowly getting there
 <p>
   For hungry readers, here's my pick:
   <ul style="margin-top:-15px;">
-    <li> <a href="https://www.ibs.it/liberismo-di-sinistra-ebook-alberto-alesina/e/9788865763520">Il liberalismo è di sinistra</a>, del buon Alesina </li>
+    <li> <a href="https://www.ibs.it/liberismo-di-sinistra-ebook-alberto-alesina/e/9788865763520">Il liberalismo è di sinistra</a>, del buon Giavazzi e Alesina </li>
     <li> <a href="https://www.waterstones.com/book/populista/will-grant/9781789543971">Populista: The Rise of Latin America's 21st Century Strongman</a> </li>
     <li> <a href="https://www.amazon.co.uk/Surely-Youre-Joking-Feynman-Adventures/dp/009917331X">Surely you're Joking Mr Feynman</a>  </li>
   </ul>
