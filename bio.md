@@ -41,12 +41,11 @@ bio_picture:
     <li> Advanced: Python, R </li> 
     <li> Beginner: Julia
   </ul> <br>   
-</p>
-<p>
-  <u>Software:</u>
-  <ul style="margin-top:-15px;">
-    <li> Git, Visual Studio, Windows, Linux </li> 
-  </ul>
+
+<u>Software:</u>
+<ul style="margin-top:-15px;">
+  <li> Git, Visual Studio, Windows, Linux </li> 
+</ul>
 </p>
 
 <h3>Languages</h3>
