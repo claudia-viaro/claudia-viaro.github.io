@@ -5,17 +5,13 @@ bio_picture:
   src: /assets/img/bio-picture.jpg
   alt: website picture
 ---
-<h3>Education </h>
+<h3>Education</h3>
 <p>
   I am a PhD candidate in Statistics at the University of Warwick (Coventry, UK).
 </p>
 
-<h3>Teaching Assistant Experience </h>
+<h3>Teaching Assistant Experience</h3>
 <p>
-<input type="text" name="mytext1" id="mytext1" size="10"
-style="background:#F5F5F5;border-color:#49A2BF;border-width:0.5pt;
-color:#666600;border-right-width:0.5pt;border-style:solid"
- disabled value="disabled"/>
   <b> 2021 - current Teaching Assistant @ University of Warwick (Coventry, UK)</b>
   <ul style="margin-top:-10px;">
     <li> 2022/2023 </li> <br />
@@ -33,16 +29,16 @@ color:#666600;border-right-width:0.5pt;border-style:solid"
 2021 - 2022 -- **PhD tutor @ The Brilliant Club** <br>
 * Tutoring students in KS4 Maths curriculum <br>
 
-<h3>Other Activities </h>
+<h3>Other Activities</h3>
 
-<h3>Technical </h>
+<h3>Technical</h3>
 
 **Languages**
 * Advanced: Python, R
 * Beginner: Julia <br>
 **Software:** Git, Visual Studio, Windows, Linux
 
-<h3>Languages </h>
+<h3>Languages</h3>
 
 * Italian: native 
 * English: proficient
