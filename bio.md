@@ -15,7 +15,7 @@ bio_picture:
   <u> 2021 - current: Teaching Assistant @ University of Warwick (Coventry, UK)</u>
   <ul style="margin-top:-15px;">
     <li> 2022/2023 </li> 
-         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/">EC226: Econometrics 1</a> 
+         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/">EC226: Econometrics 1, term 1</a> 
     <li> 2021/2022 </li> 
          <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec123/">EC123: Mathematical Techniques B</a>, term 1 <br />
          <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec124">EC124: Statistical Techniques B</a>, term 2 <br />
