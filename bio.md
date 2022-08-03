@@ -17,8 +17,8 @@ bio_picture:
     <li> 2022/2023 </li> 
          <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/">EC226: Econometrics 1</a> 
     <li> 2021/2022 </li> 
-         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec123/">EC123: Mathematical Techniques B</a>, term 1 
-         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec124">EC124: Statistical Techniques B</a>, term 2 
+         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec123/">EC123: Mathematical Techniques B</a>, term 1 <br />
+         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec124">EC124: Statistical Techniques B</a>, term 2 <br />
          <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st340/">ST340 Programming for Data Science B</a>, term 2 with R (received a very kind teaching nomination) 
     <li> 2021/2022 </li> 
          <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st1/st104/">ST104: Statistical Laboratory</a>, term 1 
