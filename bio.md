@@ -1,11 +1,11 @@
 ---
-layout: bio
+layout: home
 permalink: /bio/
 bio_picture:
   src: /assets/img/bio-picture.jpg
   alt: website picture
 ---
-<h3>Education 3</h3>
+<h3>Education </h3>
 <p>
   I am a PhD candidate in Statistics at the University of Warwick (Coventry, UK).
 </p>
@@ -29,17 +29,17 @@ bio_picture:
 2021 - 2022 -- **PhD tutor @ The Brilliant Club** <br>
 * Tutoring students in KS4 Maths curriculum <br>
 
+<h3>Other Activities </h3>
 
+<h3>Technical </h3>
 
-
-## Technical ##
 **Languages**
 * Advanced: Python, R
 * Beginner: Julia <br>
 **Software:** Git, Visual Studio, Windows, Linux
 
+<h3>Languages </h3>
 
-## Languages ##
 * Italian: native 
 * English: proficient
 * Spanish: DELE C1 level (2018)
