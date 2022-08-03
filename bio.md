@@ -34,8 +34,8 @@ bio_picture:
 <h3>Other Activities</h3>
 <p>
   <ul style="margin-top:-15px;">
-    <li> I am going to organize YRMLink opens in a new window along with Miha this year, drop me an email if you wish to present </li>
-    <li> member of the SIAM-IMA Student ChapterLink opens in a new window committee (SPAAM Seminar SeriesLink opens in a new window and more) </li> 
+    <li> I am going to organize <a href="https://warwick.ac.uk/fac/sci/statistics/news/yrm/">YRM</a> along with Miha this year, drop me an email if you wish to present </li>
+    <li> member of the <a href="https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/">SIAM-IMA Student Chapter</a> committee (<a href="https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/events2020/">SPAAM Seminar Series</a> and more) </li> 
   </ul><br />
 </p>
 
