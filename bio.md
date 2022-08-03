@@ -4,6 +4,7 @@ permalink: /bio/
 bio_picture:
   src: /assets/img/bio-picture.jpg
   alt: website picture
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 ---
 <h3>Education</h3>
 <p>
