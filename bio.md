@@ -14,14 +14,14 @@ bio_picture:
 <p>
   <u> 2021 - current: Teaching Assistant @ University of Warwick (Coventry, UK)</u>
   <ul style="margin-top:-15px;">
-    <li> 2022/2023 </li> <br />
-         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/">EC226: Econometrics 1</a> <br /> 
+    <li> 2022/2023 </li> 
+         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/">EC226: Econometrics 1</a> 
+    <li> 2021/2022 </li> 
+         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec123/">EC123: Mathematical Techniques B</a>, term 1 
+         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec124">EC123: Mathematical Techniques B</a>, term 2 
+         <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st340/">ST340 Programming for Data Science B</a>, term 2 with R (received a very kind teaching nomination) 
     <li> 2021/2022 </li> <br />
-         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec123/">EC123: Mathematical Techniques B</a>, term 1 <br />
-         <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec124">EC123: Mathematical Techniques B</a>, term 2 <br />
-         <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st340/">ST340 Programming for Data Science B</a>, term 2 with R (received a very kind teaching nomination) <br />
-    <li> 2021/2022 </li> <br />
-         <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st1/st104/">ST104: Statistical Laboratory</a>, term 1 <br />
+         <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st1/st104/">ST104: Statistical Laboratory</a>, term 1 
   </ul><br />
 
 <u>2021 - 2022 -- PhD tutor @ The Brilliant Club</u> <br>
@@ -37,17 +37,23 @@ bio_picture:
 
 <h3>Technical</h3>
 <p>
-  <u>Languages</u>
-  * Advanced: Python, R
-  * Beginner: Julia <br>
+  <u>Languages</u> <br>
+  <ul style="margin-top:-15px;">
+    <li> Advanced: Python, R </li> <br>
+    <li> Beginner: Julia <br>
+  </ul>    
   <u>Software:</u>
-  * Git, Visual Studio, Windows, Linux
+  <ul style="margin-top:-15px;">
+    <li> Git, Visual Studio, Windows, Linux </li> <br>
+  </ul>
 </p>
 
 <h3>Languages</h3>
 <p>
-  * Italian: native 
-  * English: proficient
-  * Spanish: DELE C1 level (2018)
+  <ul style="margin-top:-15px;">
+    <li> Italian: native </li> 
+    <li> English: proficient </li> 
+    <li> Spanish: DELE C1 level (2018) </li> <br>
+  </ul> 
 </p>
 
