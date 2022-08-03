@@ -20,12 +20,13 @@ bio_picture:
          <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec123/">EC123: Mathematical Techniques B</a>, term 1 
          <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec124">EC124: Statistical Techniques B</a>, term 2 
          <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st340/">ST340 Programming for Data Science B</a>, term 2 with R (received a very kind teaching nomination) 
-    <li> 2021/2022 </li> <br />
+    <li> 2021/2022 </li> 
          <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st1/st104/">ST104: Statistical Laboratory</a>, term 1 
   </ul><br />
 
-<u>2021 - 2022 -- PhD tutor @ The Brilliant Club</u> <br>
-* Tutoring students in KS4 Maths curriculum <br>
+<u>2021 - 2022 -- PhD tutor @ The Brilliant Club</u>
+<ul style="margin-top:-15px;">
+  <li> Tutoring students in KS4 Maths curriculum </li> <br>
 </p>
 
 
@@ -37,9 +38,9 @@ bio_picture:
 
 <h3>Technical</h3>
 <p>
-  <u>Languages</u> <br>
+  <u>Languages</u>
   <ul style="margin-top:-15px;">
-    <li> Advanced: Python, R </li> <br>
+    <li> Advanced: Python, R </li> 
     <li> Beginner: Julia <br>
   </ul>    
   <u>Software:</u>
