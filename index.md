@@ -8,9 +8,7 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-site under construction, slowly getting there 
-</p>
+<p style="background-color: hex; color: #02f3e5; border-radius: 4px; font-size: 16px; padding: 20px; margin: 5px;" align="justify"><b>site under construction, slowly getting there </b></p>
 
 <p>
   Welcome! I am a second year PhD student in Statistics at the University of Warwick. I am originally from a town near Verona (Italy), known for <a href="https://www.youtube.com/watch?v=TFRX_qhPKnc">risotto</a>.
@@ -27,6 +25,7 @@ site under construction, slowly getting there
     <li> <a href="https://www.ibs.it/liberismo-di-sinistra-ebook-alberto-alesina/e/9788865763520">Il liberalismo è di sinistra</a>, del buon Giavazzi e Alesina </li>
     <li> <a href="https://www.waterstones.com/book/populista/will-grant/9781789543971">Populista: The Rise of Latin America's 21st Century Strongman</a> </li>
     <li> <a href="https://www.amazon.co.uk/Surely-Youre-Joking-Feynman-Adventures/dp/009917331X">Surely you're Joking Mr Feynman</a>  </li>
+    <li> <a href="https://blog.salesforceairesearch.com/the-ai-economist/#:~:text=The%20AI%20Economist%20is%20a,collectively%20learning%20using%20reinforcement%20learning.">The AI Economist: Improving Equality and Productivity with AI-Driven Tax Policies</a></li>
   </ul>
 </p>
 
