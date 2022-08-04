@@ -8,7 +8,7 @@ profile_picture:
   alt: website picture
 ---
 
-<p style="background-color: hex; color: #02f3e5; border-radius: 4px; font-size: 16px; padding: 20px; margin: 5px;" align="justify"><b>site under construction, slowly getting there </b></p>
+<p style="background-color: hex; color: #e06666; border-radius: 4px; font-size: 16px; padding: 20px; margin: 5px;" align="justify"><b>site under construction, slowly getting there </b></p>
 
 <p>
   Welcome! I am a second year PhD student in Statistics at the University of Warwick. I am originally from a town near Verona (Italy), known for <a href="https://www.youtube.com/watch?v=TFRX_qhPKnc">risotto</a>.
