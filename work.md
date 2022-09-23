@@ -2,19 +2,17 @@
 layout: work
 title: Work
 slug: /work
-items:
-  - title: My Interest 1
-    image:
-      src: /assets/img/work/work1.png
-      alt: work1
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
-    image:
-      src: /assets/img/work/work2.png
-      alt: work2
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+bio_picture:
+  src: /assets/img/bio-picture.jpg
+  alt: website picture
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
-<br />
-<br />
+
+<h3>Tutorials</h3>
+<p>
+  This term I will be a teaching assistant for the following modules:  
+    <li> <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/">EC226: Econometrics 1 </a> </li>
+    <li> <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st339/">ST339: Introduction to Mathematical Finance</a> </li> </br>
+
+Please get in touch with me to book office hours.
+</p> 
