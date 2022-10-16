@@ -2,6 +2,9 @@
 layout: tutoring
 title: Tutoring
 slug: /tutoring
+tutoring_picture:
+  src: /assets/img/tutoring-picture.jpg
+  alt: website picture
 ---
 <h3>Tutorials</h3>
 <p>
