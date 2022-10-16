@@ -34,7 +34,8 @@ bio_picture:
 <h3>Other Activities</h3>
 <p>
   <ul style="margin-top:-15px;">
-    <li> I am going to organize <a href="https://warwick.ac.uk/fac/sci/statistics/news/yrm/">YRM</a> along with Miha this year, drop me an email if you wish to present </li>
+    <li> Organizer of <a href="https://warwick.ac.uk/fac/sci/statistics/news/yrm/">Young Researchers' Meeting Seminar</a> along with Miha Bresar this year, drop me an email if you wish to present </li>
+    <li> Organizer of the <a href="https://warwick.ac.uk/fac/sci/statistics/news/mathematicalmachinelearning/">ML&Optimization reading group<a/a> along with Laszlo Udvardi and Anna Kuchko </li>
     <li> member of the <a href="https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/">SIAM-IMA Student Chapter</a> committee (<a href="https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/events2020/">SPAAM Seminar Series</a> and more) </li> 
   </ul><br />
 </p>
