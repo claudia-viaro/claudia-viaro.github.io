@@ -6,7 +6,7 @@ tutoring_picture:
   src: /assets/img/tutoring-picture.jpg
   alt: website picture
 ---
-<h3>Tutorials</h3>
+
 <p>
   This term I will be a teaching assistant for the following modules:  
     <li> <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/">EC226: Econometrics 1 </a> </li>
