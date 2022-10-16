@@ -2,9 +2,7 @@
 layout: tutoring
 title: Tutoring
 slug: /tutoring
-tutoring_picture:
-  src: /assets/img/tutoring-picture.jpg
-  alt: website picture
+
 ---
 
 <p>
