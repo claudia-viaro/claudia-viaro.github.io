@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="tutoring">
+          <img
+            src="{{ page.tutoring_picture.src | absolute_url }}"
+            alt="{{ page.tutoring_picture.alt }}"
+            class="profile-pic"
+            style="width:70%"
+          />
+
+          {{ content }}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include foot.html %}
+  </body>
+</html>
