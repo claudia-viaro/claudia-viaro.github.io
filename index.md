@@ -30,5 +30,5 @@ profile_picture:
 </p>
 
 <p>
-  I am a decent baker, a casual pianist and 5-a-side football player!
+  I am a decent baker, a casual pianist and below-average 5-a-side football player!
 </p>
