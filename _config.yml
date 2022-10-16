@@ -24,15 +24,18 @@ footer:
       value: claudia.viaro@warwick.ac.uk
       link: mailto:yourmail@domain.com
     - name: Office
-      value: MSB Office 3.14 @ UoWarwick
+      value: Mathematical Sciences Building 3.14
       link: http://campus-cms.warwick.ac.uk/share/79487cc8472ac794747203b7e6268ab0
-  follow:
     - name: LinkedIn
-      link: http://linkedin.com/in/claudia-viaro/
+      value: LinkedIn
+      link: http://linkedin.com/in/claudia-viaro/  
+  follow:
     - name: GitHub
       link: http://github.com/claudia-viaro
     - name: Spotify
       link: https://open.spotify.com/user/1184070719
+    - name: WML group
+      link: https://wmlg.io/
     - name: Vollmer Lab
       link: https://sebastian.vollmer.ms/people/
 
