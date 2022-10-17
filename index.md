@@ -22,7 +22,7 @@ profile_picture:
 <p>
   Other things I likek:
   <ul style="margin-top:-15px;">
-    <li> <a href="https://www.ibs.it/liberismo-di-sinistra-ebook-alberto-alesina/e/9788865763520">La Notte della Repubblica di Sergio Zavoli</a> perfect as a podcast </li>
+    <li> <a href="https://www.ibs.it/liberismo-di-sinistra-ebook-alberto-alesina/e/9788865763520">La Notte della Repubblica - Sergio Zavoli</a> perfect as a podcast </li>
     <li> <a href="[https://www.ibs.it/liberismo-di-sinistra-ebook-alberto-alesina/e/9788865763520](https://www.raiplay.it/programmi/lanottedellarepubblica)">Il liberalismo è di sinistra</a>, del buon Giavazzi e Alesina </li>
     <li> <a href="https://www.waterstones.com/book/populista/will-grant/9781789543971">Populista: The Rise of Latin America's 21st Century Strongman</a> </li>
     <li> <a href="https://www.amazon.co.uk/Surely-Youre-Joking-Feynman-Adventures/dp/009917331X">Surely you're Joking Mr Feynman</a>  </li>
