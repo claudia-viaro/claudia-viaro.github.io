@@ -46,7 +46,7 @@ bio_picture:
 <p>
   <u> Languages:</u>
   <ul style="margin-top:-15px;">
-    <li> Advanced: Python, R </li> 
+    <li> Advanced: Python, R, STATA </li> 
     <li> Beginner: Julia </li>
   </ul><br />
 
