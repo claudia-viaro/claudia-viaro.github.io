@@ -16,7 +16,9 @@ bio_picture:
   <ul style="margin-top:-15px;">
     <li> 2022/2023 </li> 
          <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec226/">EC226: Econometrics 1, term 1</a> <br />
-         <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st339/">ST339: Introduction to Mathematical Finance, term 1</a>
+         <a href="https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st339/">ST339: Introduction to Mathematical Finance, term 1</a> <br />
+         <a href="https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs349/">CS349 Principles of Programming Languages, term 1</a>
+         
     <li> 2021/2022 </li> 
          <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec123/">EC123: Mathematical Techniques B</a>, term 1 <br />
          <a href="https://warwick.ac.uk/fac/soc/economics/current/modules/ec124">EC124: Statistical Techniques B</a>, term 2 <br />
@@ -36,8 +38,9 @@ bio_picture:
 <p>
   <ul style="margin-top:-15px;">
     <li> Organizer of <a href="https://warwick.ac.uk/fac/sci/statistics/news/yrm/">Young Researchers' Meeting Seminar</a> along with Miha Bresar this year, drop me an email if you wish to present </li>
+    <li> 3rd year Phd course representative (Student-Staff Liason Commitee) </li>
     <li> Organizer of the <a href="https://warwick.ac.uk/fac/sci/statistics/news/mathematicalmachinelearning/">ML&Optimization reading group<a/a> along with Laszlo Udvardi and Anna Kuchko </li>
-    <li> member of the <a href="https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/">SIAM-IMA Student Chapter</a> committee (<a href="https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/events2020/">SPAAM Seminar Series</a> and more) </li> 
+    <li> Member of the <a href="https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/">SIAM-IMA Student Chapter</a> committee (<a href="https://warwick.ac.uk/fac/sci/maths/postgrad/siamstudentchapter/events2020/">SPAAM Seminar Series</a> and more) </li> 
   </ul><br />
 </p>
 
